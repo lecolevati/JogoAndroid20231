@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Jogo Adivinha</string>
+    <string name="botao_jogar">Jogar</string>
+    <string name="botao_voltar">Voltar</string>
+    <string name="num_maior">O número é maior</string>
+    <string name="num_menor">O número é menor</string>
+    <string name="acertou">Acertou o número</string>
+    <string name="espaco"> </string>
+    <string name="parabens">Parabéns</string>
+</resources>
